@@ -1,15 +1,15 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "Talos",
+        "paragraph": "Um maketplace B2B de equipamentos, componentes e peças para industria e automação."
 
     },
     "About": {
         "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
+            "Preços baratos comparado com outros sites",
+            "Frete gratis para compras na mesma cidade",
             "Lorem ipsum dolor",
             "Incididunt ut labore"
         ],
@@ -17,38 +17,38 @@
             "Aliquip ex ea commodo",
             "Lorem ipsum dolor",
             "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "Comissão mais baixa para vendedores"
         ]
     },
     "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-lock",
+            "name": "Pagamento seguro",
+            "text": "Pagamento assegurado pela Stripe connect."
         },
         {
             "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Frete grátis e entrega em até um dia",
+            "text": "Se você pedir em um vendedor de sua cidade, podemos vender sem frete e dependendo do local, a entrega chega em 1 dia."
         },
         {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-money",
+            "name": "Economia para os vendedores",
+            "text": "Através do Talos, você economiza com marketing e desenvolvimento de site, além de uma comissão até 70% mais vantajosa que os concorrentes."
         },
         {
             "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Presente em vários países",
+            "text": "Além de atuarmos no Brasil, nós vendemos para outros países como Reino unido, EUA, Japão, India e França."
         },
         {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-credit-card",
+            "name": "Aceitamos vários métodos de pagamento",
+            "text": "Você pode pagar conta por crédito, débito, boleto e Stripe."
         },
         {
             "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Dashboard dinâmico para vendedores",
+            "text": "Gráficos sobre a venda dos produtos, perfil de clientes e métricas."
         }
 
 
@@ -114,23 +114,23 @@
     },
     "Features": [{
             "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Sistema de feedback",
+            "text": "Neste site, você pode ver as avaliações dos produtos e vendedores para melhorar sua experiencia."
         },
         {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-filter",
+            "title": "Sistema de busca aprimorado",
+            "text": "Por aqui você pode filtrar por marca, preço, local e avaliação."
         },
         {
             "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Melhor rede de vendedores",
+            "text": "Por aqui você encontra vendedores locais com a melhor qualidade com produtos de marcas excelentes."
         },
         {
             "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Variedade de produtos",
+            "text": "Vendemos desde todo tipo de equipamento industial para fabricas já consolidadas até componentes arduino e raspberry para aqueles que querem validar seu negócio."
         }
     ]
 }

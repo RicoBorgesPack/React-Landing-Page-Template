@@ -3,10 +3,9 @@ export const Gallery = (props) => {
     <div id='portfolio' className='text-center'>
       <div className='container'>
         <div className='section-title'>
-          <h2>Gallery</h2>
+          <h2>Galeria de produts</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Abaixo alguns produtos que vendemos.
           </p>
         </div>
         <div className='row'>
@@ -21,7 +20,7 @@ export const Gallery = (props) => {
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
-                      <h4>Lorem Ipsum</h4>
+                      <h4>Placa arduino e seus componentes</h4>
                     </div>
                     <img
                       src='img/portfolio/01-small.jpg'
@@ -42,7 +41,7 @@ export const Gallery = (props) => {
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
-                      <h4>Adipiscing Elit</h4>
+                      <h4>Maquinas para produção em massa</h4>
                     </div>
                     <img
                       src='img/portfolio/02-small.jpg'
@@ -63,7 +62,7 @@ export const Gallery = (props) => {
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
-                      <h4>Lorem Ipsum</h4>
+                      <h4>Equipamentos para industria alimenticía</h4>
                     </div>
                     <img
                       src='img/portfolio/03-small.jpg'
@@ -84,7 +83,7 @@ export const Gallery = (props) => {
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
-                      <h4>Lorem Ipsum</h4>
+                      <h4>Voltimetros, termometros e tablets Fluke</h4>
                     </div>
                     <img
                       src='img/portfolio/04-small.jpg'
@@ -105,7 +104,7 @@ export const Gallery = (props) => {
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
-                      <h4>Adipiscing Elit</h4>
+                      <h4>Raspberry py</h4>
                     </div>
                     <img
                       src='img/portfolio/05-small.jpg'
@@ -126,7 +125,7 @@ export const Gallery = (props) => {
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
-                      <h4>Dolor Sit</h4>
+                      <h4>Robótica e automação</h4>
                     </div>
                     <img
                       src='img/portfolio/06-small.jpg'
@@ -147,7 +146,7 @@ export const Gallery = (props) => {
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
-                      <h4>Dolor Sit</h4>
+                      <h4>Industria química</h4>
                     </div>
                     <img
                       src='img/portfolio/07-small.jpg'
@@ -168,7 +167,7 @@ export const Gallery = (props) => {
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
-                      <h4>Lorem Ipsum</h4>
+                      <h4>Equipamentos de automação e controle industrial de empresas como Siemens e Schneider</h4>
                     </div>
                     <img
                       src='img/portfolio/08-small.jpg'
@@ -189,7 +188,7 @@ export const Gallery = (props) => {
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
-                      <h4>Adipiscing Elit</h4>
+                      <h4>Maquinario para logistica</h4>
                     </div>
                     <img
                       src='img/portfolio/09-small.jpg'
